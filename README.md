@@ -1,6 +1,6 @@
 # NC358-Lab06-2019
-สร้าง script ชื่อ myop.sh 
-- ให้แสดงผล myop.sh 1 2 ให้นำ arguement มาบวกกันแล้วแสดงผลลัพธ์ 
+สร้าง shell script ชื่อ MyOp.sh 
+- ให้แสดงผล MyOp.sh $1 $2 ให้นำ Argument มาบวกกันแล้วแสดงผลลัพธ์ 
 # Bonus
-- ให้แสดงผล myop.sh add 1 2 ให้นำ arguement มาบวกกันแล้วแสดงผลลัพธ์ 
-- ใหแสดงผล myop.sh sub 2 1 ให้นำ arguement มาลบกันแล้วแสดงผลลัพธ์
+- หาก Agument $1 มีค่าเป็น add ให้นำ Argument $2 $3 มาบวกกันแล้วแสดงผลลัพธ์ 
+- หาก Agument $1 มีค่าเป็น sub ให้นำ Argument $2 $3 มาลบกันแล้วแสดงผลลัพธ์
